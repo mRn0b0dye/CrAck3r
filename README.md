@@ -37,11 +37,11 @@ python CrAck3r.py -h
 >**Setting the value of `-t or --hash-type` according to this table**
 
 ### For example 
-#### for a single hash
+#### For a single hash
 ```
 python CrAck3r.py -H d6ca3fd0c3a3b462ff2b83436dda495e -t 500 -w wordlist.txt
 ```
 #### For a file containing hashes
 ```
-python CrAck3r.py -f -t 500 -w wordlist.txt
+python CrAck3r.py -f hashes.txt -t 500 -w wordlist.txt
 ```
