@@ -1,6 +1,6 @@
 # ***CrAck3r***
 ## About
-Python-based tool for cracking hash
+**Python-based tool for cracking hash**
 ## Installation
 To install ```CrAck3r```, follow these steps:
 ```
@@ -33,7 +33,8 @@ python CrAck3r.py -h
 
 ### How to specify the hashing algorithm
 <img width="478" alt="image" src="https://github.com/user-attachments/assets/203951a7-84d6-4fd4-b47a-b3ce3e07cc27">
-Setting the value of t according to this table
+
+>**Setting the value of `-t or --hash-type` according to this table**
 
 ### For example 
 #### for a single hash
