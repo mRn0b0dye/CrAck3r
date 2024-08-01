@@ -1,6 +1,6 @@
 # ***CrAck3r***
 ## About
-**Python-based tool for cracking hash**
+**This tool allows you to crack password hashes using a wordlist.**
 ## Installation
 To install ```CrAck3r```, follow these steps:
 ```
